@@ -12,7 +12,7 @@ In this project, I developed a phone catalog using modern web development techno
 - **React Router**: Implemented React Router to manage navigation within the application, enabling a seamless user experience with multiple views and dynamic URL routing.  
 - **Context API**: Employed the Context API for state management, ensuring a predictable and consistent application state across different components.  
 - **localStorage**: Utilized localStorage to persist user preferences and data, ensuring a seamless experience even after page reloads or browser restarts.  
-- **Axios**: Used Axios for making HTTP requests to fetch data from an API, handling asynchronous operations and integrating backend services.  
+- **Fetch API**: Used for making HTTP requests to fetch data from an API, handling asynchronous operations and integrating backend services.  
 - **HTML5**: Structured the website using semantic HTML5 elements to ensure accessibility and improve SEO performance.    
 - **SCSS**: Styled the application using SCSS for modular and maintainable CSS, allowing for better organization and reuse of styles.  
 - **Responsive Design**: Ensured the website is fully responsive, adapting to different screen sizes and providing a consistent experience on mobile, tablet, and desktop devices.  
